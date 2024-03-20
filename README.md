@@ -137,28 +137,28 @@
 <a href="https://github.com/somyadipghosh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/nahata_chirag" target="_blank">
+<a href="https://twitter.com/falconefootball" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/chirag-nahata" target="_blank">
+<a href="www.linkedin.com/in/somyadipghosh" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://wa.me/+917439611385" target="_blank">
+<a href="https://wa.me/+918100463033" target="_blank">
 <img src=https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" /> 
 </a>
-<a href="https://www.facebook.com/somyadipghosh05" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61552016535780&mibextid=ZbWKwL" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/somyadipghosh05" target="_blank">
+<a href="https://www.instagram.com/somyadip_ghosh?igsh=MWk5NmI1N2d5Y25naQ==" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/somyadipghosh" target="_blank">
+<a href="https://codepen.io/Somyadip-Ghosh" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/somyadipghosh" target="_blank">
+<a href="https://youtube.com/@falconefootball?si=RM9w_BO4HFHqH1tJ" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/chirag-nahata" target="_blank">
+<a href="https://stackoverflow.com/users/23686774/somyadip-ghosh" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
