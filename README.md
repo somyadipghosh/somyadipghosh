@@ -78,10 +78,6 @@ I'm a curious and driven developer passionate about building intelligent systems
 ![Somyadip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=somyadipghosh&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somyadipghosh&layout=compact&theme=radical)
 
-### 📈 Activity & Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somyadipghosh&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=somyadipghosh&theme=react-dark)
-
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=somyadipghosh&theme=radical&no-frame=true&row=1)
 
